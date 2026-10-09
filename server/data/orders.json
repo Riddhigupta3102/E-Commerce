@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SX-89241",
+    "date": "2026-08-28T14:32:00Z",
+    "status": "Delivered",
+    "total": 317.99,
+    "subtotal": 339.98,
+    "discount": 33.99,
+    "delivery": 0.0,
+    "tax": 12.0,
+    "paymentMethod": "Credit Card (**** 4242)",
+    "shippingAddress": {
+      "fullName": "Riddhi Gupta",
+      "street": "742 Evergreen Terrace, Penthouse 4B",
+      "city": "San Francisco, CA 94107"
+    },
+    "items": [
+      {
+        "id": "prod-1",
+        "name": "Apex Pro ANC Wireless Headphones",
+        "price": 249.99,
+        "quantity": 1,
+        "color": "Midnight Black",
+        "size": "Standard Over-Ear",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=200&q=80"
+      },
+      {
+        "id": "prod-20",
+        "name": "Ceramic Ultrasonic Aroma Diffuser & Ambient Lamp",
+        "price": 68.0,
+        "quantity": 1,
+        "color": "Terracotta Matte",
+        "size": "300ml Capacity",
+        "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=200&q=80"
+      }
+    ]
+  },
+  {
+    "id": "SX-85410",
+    "date": "2026-07-12T09:15:00Z",
+    "status": "Delivered",
+    "total": 179.99,
+    "subtotal": 179.99,
+    "discount": 0,
+    "delivery": 0,
+    "tax": 0,
+    "paymentMethod": "Apple Pay",
+    "shippingAddress": {
+      "fullName": "Riddhi Gupta",
+      "street": "742 Evergreen Terrace, Penthouse 4B",
+      "city": "San Francisco, CA 94107"
+    },
+    "items": [
+      {
+        "id": "prod-14",
+        "name": "Strata Flow Carbon Running Shoes",
+        "price": 179.99,
+        "quantity": 1,
+        "color": "Crimson Surge",
+        "size": "US 8",
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=200&q=80"
+      }
+    ]
+  }
+]

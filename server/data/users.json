@@ -1,0 +1,60 @@
+[
+  {
+    "id": "usr-98124",
+    "name": "Riddhi Gupta",
+    "email": "riddhi.gupta@example.com",
+    "phone": "+1 (555) 345-6789",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
+    "role": "VIP Member",
+    "memberSince": "2024-03-15",
+    "addresses": [
+      {
+        "id": "addr-1",
+        "isDefault": true,
+        "fullName": "Riddhi Gupta",
+        "phone": "+1 (555) 345-6789",
+        "street": "742 Evergreen Terrace, Penthouse 4B",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94107",
+        "country": "United States",
+        "label": "Home"
+      },
+      {
+        "id": "addr-2",
+        "isDefault": false,
+        "fullName": "Riddhi Gupta (Design Studio)",
+        "phone": "+1 (555) 890-1234",
+        "street": "500 Howard Street, Suite 1200",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94105",
+        "country": "United States",
+        "label": "Work"
+      }
+    ]
+  },
+  {
+    "id": "usr-55412",
+    "name": "Alex Morgan",
+    "email": "alex.morgan@example.com",
+    "phone": "+1 (555) 782-9012",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
+    "role": "Member",
+    "memberSince": "2025-01-20",
+    "addresses": [
+      {
+        "id": "addr-3",
+        "isDefault": true,
+        "fullName": "Alex Morgan",
+        "phone": "+1 (555) 782-9012",
+        "street": "124 Market Street",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10001",
+        "country": "United States",
+        "label": "Home"
+      }
+    ]
+  }
+]
